@@ -84,7 +84,17 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {?>
                     <?php }?>
                     <span class="btn mb-1 btn-sm btn-outline-info">
                         <i class="fas fa-luggage-cart mr-1"></i><?=__('Hiện có');?>:
-                        <b><?=format_cash($CMSNT->get_row("SELECT COUNT(id) FROM `accounts` WHERE `product_id` = '".$product['id']."' AND `buyer` IS NULL AND `status` = 'LIVE' ")['COUNT(id)']);?></b>
+                        <b>
+                            <?php
+                            if ($product['is_have_quantity']) {
+                                $quantity = format_cash($CMSNT->get_row("SELECT COUNT(id) FROM `accounts` WHERE `product_id` = '".$product['id']."' AND `buyer` IS NULL AND `status` = 'LIVE' ")['COUNT(id)']);
+                                echo $quantity;
+                            } else {
+                                echo 'Liên hệ';
+                            }
+
+                            ?>
+                        </b>
                     </span><br>
                 </div>
                 <div class="col-md-5">
@@ -117,7 +127,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {?>
                     </div>
                     <?php endif?>
                     <div class="mb-4"></div>
-                    <?php if($CMSNT->get_row("SELECT COUNT(id) FROM `accounts` WHERE `product_id` = '".$product['id']."' AND `buyer` IS NULL AND `status` = 'LIVE' ")['COUNT(id)'] == 0){?>
+                    <?php
+                    if($CMSNT->get_row("SELECT COUNT(id) FROM `accounts` WHERE `product_id` = '".$product['id']."' AND `buyer` IS NULL AND `status` = 'LIVE' ")['COUNT(id)'] == 0 && $product['is_have_quantity']){?>
                     <button class="btn btn-block btn-secondary" disabled>
                         <i class="fas fa-frown mr-1"></i><?=__('HẾT HÀNG');?>
                     </button>    
@@ -199,9 +210,22 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {?>
                         <td class="text-center"><span class="btn mb-1 btn-sm btn-outline-warning">
                                 <?=getFlag($product['flag']);?>
                             </span></td>
+
+                        <!--So luong hien co-->
                         <td class="text-center"><span class="btn mb-1 btn-sm btn-outline-info">
                                 <i class="fas fa-luggage-cart mr-1"></i>
-                                <b><?=format_cash($CMSNT->get_row("SELECT COUNT(id) FROM `accounts` WHERE `product_id` = '".$product['id']."' AND `buyer` IS NULL AND `status` = 'LIVE' ")['COUNT(id)']);?></b>
+                                <b>
+                                    <?php
+                                        if ($product['is_have_quantity']) {
+                                            echo '123';
+                                            $quantity = format_cash($CMSNT->get_row("SELECT COUNT(id) FROM `accounts` WHERE `product_id` = '".$product['id']."' AND `buyer` IS NULL AND `status` = 'LIVE' ")['COUNT(id)']);
+//                                            echo $quantity;
+                                        } else {
+                                            echo 'Liên hệ';
+                                        }
+                                    ?>
+
+                                </b>
                             </span></td>
                         <?php if ($CMSNT->site('display_sold') == 1) {?>
                         <td class="text-center"><span class="btn mb-1 btn-sm btn-outline-success">

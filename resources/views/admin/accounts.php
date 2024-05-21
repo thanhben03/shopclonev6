@@ -53,6 +53,7 @@ if (isset($_POST['AddAccounts']) && isset($_POST['listAccount'])) {
     $list = explode(PHP_EOL, $list);
     foreach ($list as $clone) {
         if ($CMSNT->num_rows(" SELECT * FROM `accounts` WHERE `account` = '$clone' ") == 0) {
+//            $getUser =;
             $isAdd = $CMSNT->insert("accounts", [
                 'product_id'    => $row['id'],
                 'seller'        => $getUser['id'],

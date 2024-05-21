@@ -128,7 +128,6 @@ function copy() {
 
 function totalRecharge() {
     $('#total').html('<i class="fa fa-spinner fa-spin"></i> <?=__('Đang xử lý...');?>');
-    console.log($("#amount").val());
     $.ajax({
         url: "<?=BASE_URL("ajaxs/client/totalRecharge.php");?>",
         method: "POST",
@@ -155,10 +154,14 @@ function totalRecharge() {
 
 
 $("#btnDepositOrder").on("click", function() {
+    if ($("#amount").val() < 2000) {
+            return;
+        }
     $('#btnDepositOrder').html('<i class="fa fa-spinner fa-spin"></i> <?=__('Đang xử lý...');?>').prop(
         'disabled',
         true);
-    
+
+        
         var form = $("<form/>", 
                  { action:'/client/payment-create', method: 'POST' }
             );

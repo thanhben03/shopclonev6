@@ -27,7 +27,7 @@ $data = [
         ]
     ],
     "returnUrl" => $YOUR_DOMAIN . "/client/payment-success",
-    "cancelUrl" => $YOUR_DOMAIN . "/cancel.html"
+    "cancelUrl" => $YOUR_DOMAIN . "/client/recharge"
 ];
 try {
     $response = $payOS->createPaymentLink($data);

@@ -52,7 +52,8 @@ if (isset($_POST['AddProduct'])) {
         'status'    => check_string($_POST['status']),
         'minimum'   => isset($_POST['minimum']) ? $_POST['minimum'] : 1,
         'maximum'   => isset($_POST['maximum']) ? $_POST['maximum'] : 10000,
-        'preview'   => $url_image
+        'preview'   => $url_image,
+        'is_have_quantity'   => $_POST['is_have_quantity']
     ]);
     if ($isInsert) {
         $Mobile_Detect = new Mobile_Detect();
@@ -172,6 +173,13 @@ if (isset($_POST['AddProduct'])) {
                                 <div class="form-group">
                                     <label for="exampleInputEmail1">Trạng thái</label>
                                     <select class="form-control" name="status" required>
+                                        <option value="1">Hiển thị</option>
+                                        <option value="0">Ẩn</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <label for="exampleInputEmail1">Hiển thị số lượng</label>
+                                    <select class="form-control" name="is_have_quantity" required>
                                         <option value="1">Hiển thị</option>
                                         <option value="0">Ẩn</option>
                                     </select>
