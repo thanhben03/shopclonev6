@@ -3384,3 +3384,308 @@ Stack trace:
 [19-Jun-2022 08:05:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sshopclonevom/public_html/resources/views/client/shop-account.php on line 605
 [19-Jun-2022 08:39:56 UTC] PHP Warning:  Undefined variable $getUser in /home/sshopclonevom/public_html/resources/views/client/shop-account.php on line 605
 [19-Jun-2022 08:39:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sshopclonevom/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 00:38:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 00:38:40 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 00:40:57 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 00:40:57 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 00:57:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 00:57:55 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 01:00:52 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 01:00:52 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 01:10:25 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 01:10:25 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 01:29:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 01:29:54 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 01:46:41 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 01:46:41 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 01:49:00 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 01:49:00 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 04:06:36 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 04:06:36 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:10:34 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:10:34 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:18:42 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:18:42 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:31:52 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:31:52 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:32:25 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:32:25 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:33:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:33:05 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:33:33 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:33:33 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:33:37 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:33:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:36:24 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:36:24 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:39:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:39:05 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:53:10 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 07:53:10 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 08:17:33 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 08:17:33 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 08:29:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 08:29:31 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 08:34:33 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 08:34:33 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 08:55:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 08:55:31 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 09:01:27 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 09:01:27 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 09:02:02 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 09:02:02 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 09:04:11 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 09:04:11 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 09:31:20 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 09:31:20 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 09:33:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 09:33:55 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 09:37:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 09:37:21 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 09:38:51 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 09:38:51 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 09:40:25 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 09:40:25 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 11:00:38 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 11:00:38 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 11:00:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 11:00:40 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 11:15:54 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 11:15:54 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 13:42:48 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 13:42:48 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 13:48:38 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 13:48:38 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 15:23:26 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 15:23:26 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 16:47:04 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 16:47:04 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 19:03:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 19:03:55 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 19:06:02 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 19:06:02 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 19:43:35 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 19:43:35 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 21:47:58 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 21:47:58 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 22:09:37 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 22:09:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 23:32:26 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 23:32:26 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 23:32:28 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 23:32:28 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 23:32:35 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 23:32:35 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 23:32:42 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-document.php on line 98
+[22-May-2024 23:32:42 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-document.php on line 98
+[22-May-2024 23:32:42 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[22-May-2024 23:32:42 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 00:29:50 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 00:29:50 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 01:03:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 01:03:05 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 01:27:28 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 01:27:28 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 02:17:56 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 02:17:56 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 02:23:29 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 02:23:29 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 04:04:22 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 04:04:22 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 04:19:41 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 04:19:41 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 07:07:44 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 07:07:44 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 08:22:00 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 08:22:00 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 08:28:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 08:28:05 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 08:30:56 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 08:30:56 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 09:05:17 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 09:05:17 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 11:11:11 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 11:11:11 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 11:23:37 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 11:23:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 11:36:30 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 11:36:30 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 11:42:43 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 11:42:43 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 12:45:15 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 12:45:15 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 13:41:02 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 13:41:02 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 13:51:43 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 13:51:43 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 14:23:05 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 14:23:05 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 14:32:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 14:32:55 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 14:39:29 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 14:39:29 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 14:58:17 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 14:58:17 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 17:56:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 17:56:12 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 17:56:13 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 17:56:13 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 19:42:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 19:42:12 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 19:42:22 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 19:42:22 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 19:43:12 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $getUser in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 19:43:12 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/benboits/public_html/resources/views/client/shop-account.php on line 605
+[23-May-2024 19:43:58 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:43:58 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_581C62.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:44:09 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:44:09 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_B93A51.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:44:13 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:44:13 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_6C749A.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:46:42 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:46:42 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_37BC28.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:46:47 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:46:47 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_5A1987.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:46:49 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:46:49 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_59173B.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:47:06 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:47:06 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_7C5641.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:47:07 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:47:07 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_B637AC.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:47:10 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:47:10 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_98625B.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:47:21 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:47:21 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_4861A3.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:47:22 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:47:22 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_A21495.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:47:24 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:47:24 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_3B8C72.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:47:37 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:47:37 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_679385.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:47:38 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:47:38 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_29374C.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:47:40 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:47:40 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_351648.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:47:57 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:47:57 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_B14A79.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:47:59 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:47:59 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_A95814.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:48:01 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:48:01 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_756284.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:48:09 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:48:09 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_672A84.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:48:10 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:48:10 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_176CAB.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:48:13 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:48:13 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_A12753.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:48:22 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:48:22 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_5A1678.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:48:23 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:48:23 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_59364B.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:48:26 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:48:26 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_762839.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:48:30 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:48:30 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_75816B.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:48:42 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:48:42 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_753A41.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:48:44 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:48:44 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_862751.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:48:46 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:48:46 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_648125.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:48:57 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:48:57 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_298571.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:49:02 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:49:02 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_459CA1.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:49:05 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:49:05 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_8C6354.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:49:16 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:49:16 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_7528CA.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:49:17 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:49:17 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_8391BA.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:49:20 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:49:20 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_1542A9.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:49:29 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:49:29 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_B86174.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:49:31 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:49:31 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_168574.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:49:34 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:49:34 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_7316B9.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:49:50 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:49:50 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_758321.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:49:51 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:49:51 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_C56417.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:49:55 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:49:55 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_738496.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:50:05 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:50:05 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_6731A2.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:50:06 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:50:06 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_B9583C.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:50:11 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:50:11 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_A2971C.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:50:19 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:50:19 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_798B52.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:50:20 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:50:20 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_8A213B.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:50:25 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:50:25 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_256781.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:50:33 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:50:33 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_319A75.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:50:35 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:50:35 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_A82193.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:50:40 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:50:40 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_156B84.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:50:48 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:50:48 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_68CA92.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
+[23-May-2024 19:50:52 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://api.cmsnt.co/shopclone6NEWA22vSfhaab.zip): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/benboits/public_html/update.php on line 24
+[23-May-2024 19:50:52 Asia/Ho_Chi_Minh] PHP Warning:  unlink(update_46958A.zip): No such file or directory in /home/benboits/public_html/update.php on line 34
