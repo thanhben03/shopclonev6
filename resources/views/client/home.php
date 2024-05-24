@@ -32,15 +32,7 @@ require_once(__DIR__.'/sidebar.php');
     <div class="container-fluid">
         <div class="row">
             <?php if (isset($getUser) && $getUser['status_2fa'] != 1) {?>
-            <div class="col-lg-12">
-                <div class="alert bg-white alert-danger" role="alert">
-                    <div class="iq-alert-icon">
-                        <i class="ri-alert-line"></i>
-                    </div>
-                    <a href="<?=BASE_URL('client/security');?>"
-                        class="iq-alert-text"><?=__('Vui lòng bật xác minh 2 bước Google 2FA để bảo vệ tài khoản của bạn.');?></a>
-                </div>
-            </div>
+
             <?php }?>
             <div class="col-lg-12">
                 <div class="alert bg-white alert-primary" role="alert">

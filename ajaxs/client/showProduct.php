@@ -79,13 +79,22 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {?>
                     </span><br>
                     <?php if ($CMSNT->site('display_sold') == 1) {?>
                     <span class="btn mb-1 btn-sm btn-outline-success">
-                        <i class="fas fa-cart-arrow-down mr-1"></i><?=__('Đã bán');?>: <b><?=format_cash($CMSNT->get_row("SELECT COUNT(id) FROM `accounts` WHERE `product_id` = '".$product['id']."' AND `buyer` IS NOT NULL AND `status` = 'LIVE' ")['COUNT(id)']+$CMSNT->site('virtual_sold_quantity'));?></b>
+                        <i class="fas fa-cart-arrow-down mr-1"></i><?=__('Đã bán');?>:
+                        <b>
+                            <?=format_cash($CMSNT->get_row("SELECT COUNT(id) FROM `orders` WHERE `product_id` = '".$product['id']."'  ")['COUNT(id)']);?>
+                        </b>
                     </span>
                     <?php }?>
-                    <span class="btn mb-1 btn-sm btn-outline-info">
-                        <i class="fas fa-luggage-cart mr-1"></i><?=__('Hiện có');?>:
-                        <b><?=format_cash($CMSNT->get_row("SELECT COUNT(id) FROM `accounts` WHERE `product_id` = '".$product['id']."' AND `buyer` IS NULL AND `status` = 'LIVE' ")['COUNT(id)']);?></b>
-                    </span><br>
+
+                    <?php if ($product['is_have_quantity']) {?>
+                        <span class="btn mb-1 btn-sm btn-outline-info">
+                            <i class="fas fa-luggage-cart mr-1"></i><?=__('Hiện có');?>:
+                            <b>
+                                <?=format_cash($CMSNT->get_row("SELECT COUNT(id) FROM `accounts` WHERE `product_id` = '".$product['id']."' AND `buyer` IS NULL AND `status` = 'LIVE' ")['COUNT(id)']);?>
+                            </b>
+                        </span>
+                    <?php }?>
+                    <br>
                 </div>
                 <div class="col-md-5">
                     <?php if($CMSNT->site('display_rating') == 1):?>
