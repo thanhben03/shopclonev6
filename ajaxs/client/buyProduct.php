@@ -50,7 +50,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     }
     $id = check_string($_POST['id']);
     $amount = check_string($_POST['amount']);
-    if ($amount > $CMSNT->get_row("SELECT COUNT(id) FROM `accounts` WHERE `product_id` = '$id' AND `buyer` IS NULL AND `status` = 'LIVE' ")['COUNT(id)']) {
+    $product = $CMSNT->get_row("SELECT * FROM `products` WHERE `id` = '$id' ");
+
+    $in_stock = $amount < $CMSNT->get_row("SELECT COUNT(id) FROM `accounts` WHERE `product_id` = '$id' AND `buyer` IS NULL AND `status` = 'LIVE' ")['COUNT(id)'];
+    if (!$in_stock && $product['is_have_quantity']) {
         die(json_encode(['status' => 'error', 'msg' => __('Số lượng trong hệ thống không đủ')]));
     }
     $total_payment = $amount * $row['price'];
@@ -112,14 +115,14 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             $isAddCreditsRef = $User->AddCredits($row['user_id'], $total_payment, "Doanh thu đơn hàng #".$trans_id);
             /* GỬI EMAIL ĐƠN HÀNG CHO NGƯỜI MUA*/
             if($CMSNT->site('email_smtp') != ''){
-                $chu_de = "Xác nhận thanh toán hóa đơn #$trans_id thành công";
-                $content = file_get_contents(base_url('libs/mails/buyProduct.php'));
-                $content = str_replace('{product_name}', $row['name'], $content);
-                $content = str_replace('{amount}', format_cash($amount), $content);
-                $content = str_replace('{trans_id}', $trans_id, $content);
-                $content = str_replace('{price}', format_currency($total_payment), $content);
-                $bcc = $CMSNT->site('title');
-                sendCSM($getUser['email'], $getUser['username'], $chu_de, $content, $bcc);
+//                $chu_de = "Xác nhận thanh toán hóa đơn #$trans_id thành công";
+//                $content = file_get_contents(base_url('libs/mails/buyProduct.php'));
+//                $content = str_replace('{product_name}', $row['name'], $content);
+//                $content = str_replace('{amount}', format_cash($amount), $content);
+//                $content = str_replace('{trans_id}', $trans_id, $content);
+//                $content = str_replace('{price}', format_currency($total_payment), $content);
+//                $bcc = $CMSNT->site('title');
+//                sendCSM($getUser['email'], $getUser['username'], $chu_de, $content, $bcc);
             }
             die(json_encode(['status' => 'success', 'msg' => __('Thanh toán đơn hàng thành công')]));
         } else {

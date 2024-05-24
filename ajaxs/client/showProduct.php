@@ -117,7 +117,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {?>
                     </div>
                     <?php endif?>
                     <div class="mb-4"></div>
-                    <?php if($CMSNT->get_row("SELECT COUNT(id) FROM `accounts` WHERE `product_id` = '".$product['id']."' AND `buyer` IS NULL AND `status` = 'LIVE' ")['COUNT(id)'] == 0){?>
+                    <?php if($CMSNT->get_row("SELECT COUNT(id) FROM `accounts` WHERE `product_id` = '".$product['id']."' AND `buyer` IS NULL AND `status` = 'LIVE' ")['COUNT(id)'] == 0 && $product['is_have_quantity']){?>
                     <button class="btn btn-block btn-secondary" disabled>
                         <i class="fas fa-frown mr-1"></i><?=__('HẾT HÀNG');?>
                     </button>    
